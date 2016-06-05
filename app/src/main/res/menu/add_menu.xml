@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_photo"
+        android:icon="@drawable/camera_logo"
+        android:title="@string/send"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/nav_add"
+        android:icon="@drawable/send_logo"
+        android:title="@string/send"
+        app:showAsAction="always"/>
+
+</menu>
