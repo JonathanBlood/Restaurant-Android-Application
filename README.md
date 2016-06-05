@@ -9,6 +9,7 @@ Restaurant Android application which makes use of the following [Google Firebase
 * Create a new project. 
 * Click the "Add Firebase to your android app. 
 * Follow the on screen instructions for copying the config file to the project (google-services.json)
+* Navigate to Auth and enable the sign in method for Google. 
 
 ![Main Screen](http://i.imgur.com/62GJWg8.png)
 ![Restaurant Detail](http://i.imgur.com/obZRUl8.png)
