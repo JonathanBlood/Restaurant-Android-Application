@@ -4,6 +4,14 @@ Restaurant Android application which makes use of the following [Google Firebase
 * Database
 * Storage
 
+Still a work in progress:
+Requires:
+* Add edit operation
+* Bug fix for window leak due to progress bar.
+* Code refactor.
+* Enable off line mode (requires additional configuration for picasso.
+* Page Recycler view and optimize it. 
+
 ## To Run the project. 
 * Navigate to the [Firebase Console](https://console.firebase.google.com/).
 * Create a new project. 
